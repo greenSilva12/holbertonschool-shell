@@ -1,1 +1,2 @@
-liste les fichiers
+#!/bin/bash
+ls
