@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -l | less ls_cwd_content
+ls -la  >  ls_cwd_content
